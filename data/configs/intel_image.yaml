@@ -1,0 +1,20 @@
+# dataset paths
+paths:
+  train_dataset_path : "./data/datasets/intel_img/seg_train/seg_train"
+  val_dataset_path :
+  test_dataset_path : "./data/datasets/intel_img/seg_test/seg_test"
+
+# class mapping
+class_to_idx:
+  buildings: 0
+  forest: 1
+  glacier: 2
+  mountain: 3
+  sea: 4
+  street: 5
+
+# number of classes
+class_num: 6
+
+# image resolution to use in training
+img_size: 150
