@@ -1,4 +1,4 @@
-# Research ready classification code
+# Research ready classification code 
 
 
 A modular PyTorch-based framework for training and evaluating image classification models.
