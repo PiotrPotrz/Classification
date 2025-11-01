@@ -1,4 +1,5 @@
 # Research ready classification code 
+[![Tests](https://github.com/PiotrPotrz/Classification/actions/workflows/tests.yml/badge.svg)](https://github.com/PiotrPotrz/Classification/actions)
 
 
 A modular PyTorch-based framework for training and evaluating image classification models.
